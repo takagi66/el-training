@@ -1,0 +1,18 @@
+current directory: C:/Users/n_takagi/training/training-app/vender/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+C:/Ruby32-x64/bin/ruby.exe -I C:/Ruby32-x64/lib/ruby/3.2.0 extconf.rb
+
+current directory: C:/Users/n_takagi/training/training-app/vender/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230507-5152-v2wxvc sitelibdir\=./.gem.20230507-5152-v2wxvc clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: C:/Users/n_takagi/training/training-app/vender/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230507-5152-v2wxvc sitelibdir\=./.gem.20230507-5152-v2wxvc
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/Users/n_takagi/training/training-app/vender/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230507-5152-v2wxvc sitelibdir\=./.gem.20230507-5152-v2wxvc install
+make: 'install' に対して行うべき事はありません.
+
+current directory: C:/Users/n_takagi/training/training-app/vender/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230507-5152-v2wxvc sitelibdir\=./.gem.20230507-5152-v2wxvc clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
